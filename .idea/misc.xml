@@ -1,0 +1,34 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android48/HWeather2/app/src/main/res/drawable/bg_green.xml" value="0.3595" />
+        <entry key="..\:/Android48/HWeather2/app/src/main/res/layout/activity_infor_city_map.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android48/HWeather2/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android48/HWeather2/app/src/main/res/layout/activity_search_map.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android48/HWeather2/app/src/main/res/layout/custom_list_city_search.xml" value="0.20778110303548525" />
+        <entry key="..\:/Android48/HWeather2/app/src/main/res/layout/custom_manage_listview.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android48/HWeather2/app/src/main/res/layout/custom_weatherdays.xml" value="0.365625" />
+        <entry key="..\:/Android48/HWeather2/app/src/main/res/layout/custom_weatherhours.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android48/HWeather2/app/src/main/res/layout/dialog_lang.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android48/HWeather2/app/src/main/res/layout/dialog_unit.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android48/HWeather2/app/src/main/res/layout/example_widget.xml" value="0.20863616930312098" />
+        <entry key="..\:/Android48/HWeather2/app/src/main/res/layout/fragment_city_mange.xml" value="0.2" />
+        <entry key="..\:/Android48/HWeather2/app/src/main/res/layout/fragment_city_pager.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android48/HWeather2/app/src/main/res/layout/fragment_details_weather.xml" value="0.19709277469003847" />
+        <entry key="..\:/Android48/HWeather2/app/src/main/res/layout/fragment_map.xml" value="0.24010416666666667" />
+        <entry key="..\:/Android48/HWeather2/app/src/main/res/layout/fragment_maps.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android48/HWeather2/app/src/main/res/layout/fragment_quick_search.xml" value="0.2" />
+        <entry key="..\:/Android48/HWeather2/app/src/main/res/layout/fragment_setting.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android48/HWeather2/app/src/main/res/layout/notimaps.xml" value="0.2578125" />
+        <entry key="..\:/Android48/HWeather2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.3595" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
